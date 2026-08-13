@@ -6,7 +6,7 @@ class SegmentTreeNode:
         self.lmx = 0
         self.rmx = 0
         self.mx = 0
-        self.len = []
+        self.len = 0
 
 class Solution:
     def longestRepeating(self, s: str, queryCharacters: str, queryIndices: list[int]) -> list[int]:
