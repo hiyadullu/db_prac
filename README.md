@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/hiyadullu/db_prac/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/hiyadullu/db_prac/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/hiyadullu/db_prac/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/hiyadullu/db_prac/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/hiyadullu/db_prac/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/hiyadullu/db_prac/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/hiyadullu/db_prac/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/hiyadullu/db_prac/tree/master/1510-stone-game-iv) |
