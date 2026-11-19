@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hiyadullu/db_prac/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/hiyadullu/db_prac/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/hiyadullu/db_prac/tree/master/0301-remove-invalid-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/hiyadullu/db_prac/tree/master/0940-distinct-subsequences-ii) |
@@ -304,11 +305,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hiyadullu/db_prac/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/hiyadullu/db_prac/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/hiyadullu/db_prac/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hiyadullu/db_prac/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/hiyadullu/db_prac/tree/master/1021-remove-outermost-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hiyadullu/db_prac/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Heap (Priority Queue)
